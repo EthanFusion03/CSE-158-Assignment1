@@ -14,3 +14,6 @@ An SVD++ matrix factorization model was used to predict ratings by learning late
 |-------------------------|--------------|---------------|
 | Rating Prediction       | 1.4146       | 1.4591        |
 | Read Prediction         | 0.7932       | 0.7920        |
+
+
+![Screenshot 2024-12-09 193625](https://github.com/user-attachments/assets/355bbc13-1c13-4497-ae1f-7cf4b1a83133)
